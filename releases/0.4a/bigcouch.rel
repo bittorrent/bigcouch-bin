@@ -1,0 +1,20 @@
+%% rel generated at {2011,7,26} {22,14,19}
+{release,{"bigcouch","0.4a"},
+         {erts,"5.7.4"},
+         [{kernel,"2.13.4"},
+          {stdlib,"1.16.4"},
+          {sasl,"2.1.8"},
+          {crypto,"1.6.3"},
+          {ssl,"3.10.7"},
+          {inets,"5.2"},
+          {xmerl,"1.2.3"},
+          {runtime_tools,"1.8.2"},
+          {mochiweb,"CouchDB-1.0.2"},
+          {ibrowse,"CouchDB-1.0.2-2-g2b77a1f"},
+          {oauth,"CouchDB-1.0.3"},
+          {couch,"1.0.2-541-g266ba88"},
+          {rexi,"1.5.3"},
+          {fabric,"1.6.1-2-g0f052e9"},
+          {mem3,"1.2.6"},
+          {chttpd,"1.3.0-7-ge6b09f6"}]}.
+
